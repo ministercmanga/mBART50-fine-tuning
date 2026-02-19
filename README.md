@@ -5,7 +5,7 @@ Project Overview
  
 Dataset: Language Pairs
  >English–isiZulu (25,200)
- >English–isiXhosa (26,000)
+ >English–isiXhosa (28,000)
 The dataset consists of parallel sentence pairs collected from publicly available Autshumato dataset.
 
 Preprocessing Steps
